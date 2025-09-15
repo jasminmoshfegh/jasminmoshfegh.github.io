@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Jasmin Moshfegh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor of Economics and Public Policy"
+  location         : "London, UK"
+  employer         : "Imperial College London"
   uri              : # URL
   email            : "none@example.org" 
 
