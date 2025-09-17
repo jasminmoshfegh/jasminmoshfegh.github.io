@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
-[**Who Gains When Medicine Becomes More Precise? Evidence from Genomic Testing in Breast Cancer**](/files/moshfegh_labor_regulations.pdf) <br>
+[**Who Gains When Medicine Becomes More Precise? Evidence from Genomic Testing in Breast Cancer**](/files/WhoGains.pdf) <br>
 First draft: November 2023; Current version: May 2025
 
 [**The Economics of Infertility - Evidence from Reproductive Medicine**](https://www.nber.org/system/files/working_papers/w32445/w32445.pdf).<br>
