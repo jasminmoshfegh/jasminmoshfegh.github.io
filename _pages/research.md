@@ -9,7 +9,7 @@ author_profile: true
 [**Who Gains When Medicine Becomes More Precise? Evidence from Genomic Testing in Breast Cancer**](/files/WhoGains.pdf) <br>
 First draft: November 2023; Current version: August 2025
 
-[**The Economics of Infertility - Evidence from Reproductive Medicine**](https://www.nber.org/system/files/working_papers/w32445/w32445.pdf).<br>
+[**The Economics of Infertility - Evidence from Reproductive Medicine**](https://www.nber.org/system/files/working_papers/w32445/w32445.pdf) <br>
 (with Sarah Bögl, Petra Persson,  Maria Polyakova) <br>
 NBER Working Paper No. 32445, First draft: March 2024; Current version: February 2025 <br>
 R&R at ***Quarterly Journal of Economics*** <br> 
