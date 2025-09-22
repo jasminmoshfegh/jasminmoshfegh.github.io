@@ -17,13 +17,6 @@ R&R at ***Quarterly Journal of Economics*** <br>
 **Spending on Precision Medicine - Evidence from Colorectal Cancer Screening Tests** <br>
 First draft: May 2024; Current version:  May 2024 <br>
 *(Draft available upon request)*
- 
-## Selected Work in Progress
-**Chatbots and Women's Health** <br>
-(with Suhani Jalota)
-
-**A Miracle Drug? Evidence on the Impacts of Next Generation Diabetes Drugs** <br>
-(with Samuel Bock and Jonathan Zhang)
 
 ## Publications
 [**Assessment of Out-of-Network Billing for Privately Insured Patients Receiving Care in In-Network Hospitals**](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2740802) <br>
