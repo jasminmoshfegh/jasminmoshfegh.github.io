@@ -9,6 +9,6 @@ redirect_from:
 
 I am an Assistant Professor in Economics and Public Policy in the Business School at Imperial College London. 
 
-I am an applied economist focusing on health economics. I study physician behavior, healthcare innovation, and the role of public policy in shaping diffusion and access to new medical technologies.
+I am an applied economist focusing on health economics. I study physician behavior, healthcare innovation, health inequality, and the role of public policy in shaping diffusion and access to new medical technologies.
 
 I received my PhD in Health Policy (Economics) from Stanford University in 2024. Between 2024-2025 I was a Postdoctoral Fellow at Stanford and a BD-STEP fellow at the U.S. Department of Veterans Affairs and the National Cancer Institute at the National Institutes of Health.
