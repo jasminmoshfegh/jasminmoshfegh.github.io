@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Working Papers
+[**Weighing the Impacts of GLP-1s: Quasi-Experimental Evidence From Provider Adoption**](/files/GLP1.pdf) <br>
+(with Sam Bock and Jonathan Zhang) <br>
+First draft: December 2025; Current version: December 2025
+
 [**Who Gains When Medicine Becomes More Precise? Evidence from Genomic Testing in Breast Cancer**](/files/WhoGains.pdf) <br>
 First draft: November 2023; Current version: August 2025
 
